@@ -17,4 +17,5 @@ Utilizatorii ar putea folosi aplicația "VoyageVista" pentru a rezolva diverse p
 # Descriere API
 
 -OpenAI ChatGPT
+
 -MongoDb
